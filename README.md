@@ -20,7 +20,7 @@ Ideal para ingenieros eléctricos, diseñadores de iluminación y profesionales 
   - **Conteo por tipo de bloque y circuito**: `(valor $circuito, nombre bloque, cantidad)`.
   - **Distancia Manhattan promedio por circuito**: desde los bloques hasta el tablero.
 - 📋 Copia automática al portapapeles en formato tabulado, listo para pegar en **Excel**.
-- 🧩 Código **modular** (clases separadas por responsabilidad), fácil de mantener y extender.
+- 🧩 Código **modular**
 
 ---
 
